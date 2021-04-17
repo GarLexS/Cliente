@@ -1,0 +1,9 @@
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\bin\Debug\ControlProteinasClient.exe.config
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\bin\Debug\ControlProteinasClient.exe
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\bin\Debug\ControlProteinasClient.pdb
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\obj\Debug\ControlProteinasClient.ControlProteinasForm.resources
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\obj\Debug\ControlProteinasClient.Properties.Resources.resources
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\obj\Debug\ControlProteinasClient.csproj.GenerateResource.cache
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\obj\Debug\ControlProteinasClient.csproj.CoreCompileInputs.cache
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\obj\Debug\ControlProteinasClient.exe
+C:\Users\garle\source\repos\ControlProteinasClient\ControlProteinasClient\obj\Debug\ControlProteinasClient.pdb
